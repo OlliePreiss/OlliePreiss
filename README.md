@@ -7,7 +7,7 @@ HTML, CSS, JS, AJAX, Ruby (Rails), SQL
 
 <h3> Projects: </h3>
 <ul>
-<li> Jamm - connect with musicians near you: <a href="https://github.com/OlliePreiss/Jamm"> Github </a> | <a href="https://www.jammwith.me/">     Production </a> </li>
+<li> <img alt="Twitter" src="https://res.cloudinary.com/dzetkblyo/image/upload/v1688501931/favicon-32x32_kaectw.png" /> Jamm - connect with musicians near you: <a href="https://github.com/OlliePreiss/Jamm"> Github </a> | <a href="https://www.jammwith.me/">     Production </a> </li>
 <li >  <strong> Coming soon ... </strong> </li>
 </ul>
 
