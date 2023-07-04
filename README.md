@@ -1,6 +1,6 @@
 <h3> Hi there 👋 </h3> 
 
-<h3> I'm Ollie. London based early-stage Product/Growth lead. Currently learning fullstack web development as a hobby to make my ideas a reality. </h3>
+<p> I'm Ollie. London based early-stage Product/Growth lead. Currently learning fullstack web development as a hobby to make my ideas a reality. </p>
 
 <h3> Technical Experience: </h3>
 HTML, CSS, JS, AJAX, Ruby (Rails), SQL
