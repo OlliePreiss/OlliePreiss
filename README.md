@@ -2,7 +2,7 @@
 
 <p> I'm Ollie. London based early-stage Product/Growth lead. Currently learning fullstack web development as a hobby to make my ideas a reality. </p>
 
-<h3> Technical Experience: </h3>
+<h3> Experience in... </h3>
 HTML, CSS, JS, AJAX, Ruby (Rails), SQL
 
 <h3> Projects: </h3>
