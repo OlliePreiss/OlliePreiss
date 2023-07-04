@@ -8,6 +8,7 @@ HTML, CSS, JS, AJAX, Ruby (Rails), SQL
 <h3> Projects: </h3>
 <ul>
 <li> Jamm - connect with musicians near you: <a href="https://github.com/OlliePreiss/Jamm"> Github </a> | <a href="https://www.jammwith.me/">     Production </a> </li>
+<li >  <strong> Coming soon ... </strong> </li>
 </ul>
 
 <h3>Find me on...</h3>
